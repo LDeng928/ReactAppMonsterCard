@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project built following Udemy course Complete React Developer in 2021 (w/Redux, Hooks, GraphQL) created by Andrei Neagoie and Yihua Zhang.
+
 ## Available Scripts
 
 In the project directory, you can run:
